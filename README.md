@@ -5,11 +5,12 @@
 ### **PROJECTS**
 
 <Store! /> E-Commerce
-![Store](https://user-images.githubusercontent.com/73317663/119709579-c012d000-be33-11eb-9b7a-e1d8d4dbcbda.png)
+![Store](https://user-images.githubusercontent.com/73317663/121214251-4d531d00-c855-11eb-813b-89a62b79d808.png)
 
 Wiki-Woof
-![Imagen1](https://user-images.githubusercontent.com/73317663/119709396-8cd04100-be33-11eb-8535-3e2916fd7827.png)
-![Imagen2](https://user-images.githubusercontent.com/73317663/119709398-8d68d780-be33-11eb-9320-3a3e0a5cd69d.png)
+![Captura1](https://user-images.githubusercontent.com/73317663/121213842-fd745600-c854-11eb-9cf8-382cb69b3a6a.png)
+![Captura2](https://user-images.githubusercontent.com/73317663/121213851-ffd6b000-c854-11eb-9c01-6acbe09d89c3.png)
+
 
 ### **CONTACT**
 - E-mail: alvarez.camila.alexandra@gmail.com
