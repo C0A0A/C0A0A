@@ -8,7 +8,7 @@
 ![Store](https://user-images.githubusercontent.com/73317663/121214251-4d531d00-c855-11eb-813b-89a62b79d808.png)
 
 Wiki-Woof
-![Captura1](https://user-images.githubusercontent.com/73317663/121213842-fd745600-c854-11eb-9cf8-382cb69b3a6a.png)
+![Captura1](https://user-images.githubusercontent.com/73317663/127238399-56e70fa7-fe6b-4c16-b081-5a3fe9a891d9.png)
 ![Captura2](https://user-images.githubusercontent.com/73317663/121213851-ffd6b000-c854-11eb-9c01-6acbe09d89c3.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0A0A&count_private=true&show_icons=true&theme=radical)
