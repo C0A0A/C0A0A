@@ -5,7 +5,7 @@
 ### **PROJECTS**
 
 <Store! /> E-Commerce
-![Store](https://user-images.githubusercontent.com/73317663/121214251-4d531d00-c855-11eb-813b-89a62b79d808.png)
+![Catalogue](https://user-images.githubusercontent.com/73317663/127238797-205683a5-2430-477d-a47e-1f7a6b840843.png)
 
 Wiki-Woof
 ![Captura1](https://user-images.githubusercontent.com/73317663/127238399-56e70fa7-fe6b-4c16-b081-5a3fe9a891d9.png)
